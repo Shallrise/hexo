@@ -11,6 +11,13 @@ module.exports = [{
         children: [
             '/guide/notes/two',
         ]
+    },
+    {
+        title: 'webpack踩坑日记',
+        collapsable: true,
+        children: [
+            '/guide/notes/webpack',
+        ]
     }
 
 ]
