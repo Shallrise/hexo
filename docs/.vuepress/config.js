@@ -1,7 +1,7 @@
 const moment = require('moment');
 module.exports = {
     base: "/",
-    // theme: 'reco',
+    theme: 'reco',
     dest: '../../dist',
     title: 'Shallrise',
     description: '是我的',
